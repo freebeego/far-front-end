@@ -1,6 +1,6 @@
 ## Сайт для НКО «ФАР»
 
-#### Технологический стек: HTML, CSS, БЭМ, JavaScript, NUXT(Vue), React, express, mongoDB, webpack, strapi, npm, git, linux, bash
+#### Технологический стек: HTML, CSS, БЭМ, JavaScript, NUXT(Vue), express, mongoDB, webpack, npm, git, linux, bash
 
 #### Реализованные возможности:
 Форма обратной связи (информация отправленная пользователем приходит на корпоративный email организации)
