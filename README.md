@@ -13,20 +13,29 @@
 Так же можно создавать шаблонные страницы
 
 https://far.listen-me.ru/
+
 https://far.listen-me.ru/api/admin
+
 
 https://far.listen-me.ru
 
 requirements:
 
 "engines": {
+
     "node": ">=10.16.0 <=14.x.x",
+    
     "npm": "^6.0.0"
+    
   }
   
 Проект работает в режиме SSR
+
 Запускается: 
+
 npm i
+
 NODE_ENV=production npm run build
+
 npm start / pm2 start
   
